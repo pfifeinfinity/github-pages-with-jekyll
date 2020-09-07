@@ -1,0 +1,1 @@
+This is my first blog post.  I am teaching myself github and various other things to make myself more marketable to finding a new job. 
